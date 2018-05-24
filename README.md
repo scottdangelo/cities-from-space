@@ -40,7 +40,7 @@ Note that when you first run the server app approximately 125M of image files wi
 
 ## Deploy the server application to IBM Cloud
 
-[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM/cities-from-space)
+[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/scottdangelo/cities-from-space)
 
 Press the above ``Deploy to IBM Cloud`` button and then click on ``Deploy``.
 
