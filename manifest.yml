@@ -12,3 +12,6 @@ applications:
   random-route: false
   services:
   - cfs-visual-recognition
+env:
+  OPTIMIZE_MEMORY: true
+
