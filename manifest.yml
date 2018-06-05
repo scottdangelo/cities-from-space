@@ -5,7 +5,7 @@ declared-services:
     plan: lite
 applications:
 - path: ./server
-  memory: 256M
+  memory: 512M
   instances: 1
   name: cities-from-space
   disk_quota: 512M
